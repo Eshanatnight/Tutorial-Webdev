@@ -6,6 +6,7 @@
 <a title="CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height=35/> </a>
 
 <br />
+
 ---
 
 # About
@@ -13,11 +14,13 @@
 This Repo contains demo and Tutorial code for web page development by HTML5 & CSS
 
 <br />
+
 ---
 
 # Folder: "demo slideshow"
   ### conintains demo code for a slideshow of background images
 
 <br />
+
 ---
 
